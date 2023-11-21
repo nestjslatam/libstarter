@@ -7,13 +7,13 @@
     "webpack": true
   },
   "projects": {
-    "ddd": {
+    "factory": {
       "type": "library",
-      "root": "libs/ddd",
+      "root": "libs/factory",
       "entryFile": "index",
-      "sourceRoot": "libs/ddd/src",
+      "sourceRoot": "libs/factory/src",
       "compilerOptions": {
-        "tsConfigPath": "libs/ddd/tsconfig.lib.json"
+        "tsConfigPath": "libs/factory/tsconfig.lib.json"
       }
     }
   }

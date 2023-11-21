@@ -1,0 +1,18 @@
+{
+  "name": "@nestjslatam/factory-lib",
+  "version": "1.0.0",
+  "description": "NESTJS Factory is a LIB designed to define, create, and execute factories in an easy way. with NestInject.",
+  "main": "index.js",
+  "private": false,
+  "keywords": [
+    "nestjs",
+    "factories",
+    "ioc"
+  ],
+  "author": {
+    "name": "Alberto Arroyo Raygada",
+    "email": "beyondnet.peru@gmail.com",
+    "url": "http://nestjslatam.org/"
+  },
+  "license": "MIT"
+}
